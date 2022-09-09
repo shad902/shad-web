@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shad-web/static/css/main.462085df.css",
-    "main.js": "/shad-web/static/js/main.f10a6f93.js",
+    "main.js": "/shad-web/static/js/main.d45a5408.js",
     "static/js/787.7efd31bd.chunk.js": "/shad-web/static/js/787.7efd31bd.chunk.js",
     "static/media/tec.png": "/shad-web/static/media/tec.f75249da90373b2211fd.png",
     "static/media/color-sharp.png": "/shad-web/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -25,20 +25,17 @@
     "static/media/revicons.ttf": "/shad-web/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/blank.png": "/shad-web/static/media/blank.2a1b72c205637855d553.png",
     "static/media/revicons.woff": "/shad-web/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/logo.svg": "/shad-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/nav-icon3.svg": "/shad-web/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "static/media/github.svg": "/shad-web/static/media/github.0b494e85d9e04dc12ddc73937ea54f4b.svg",
     "index.html": "/shad-web/index.html",
     "static/media/linkedin.svg": "/shad-web/static/media/linkedin.721d5414c26365f117e71d46b6641cb2.svg",
-    "static/media/arrow2.svg": "/shad-web/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
-    "static/media/arrow1.svg": "/shad-web/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/email.svg": "/shad-web/static/media/email.064e21130d30ef540341db1c93884e6b.svg",
     "main.462085df.css.map": "/shad-web/static/css/main.462085df.css.map",
-    "main.f10a6f93.js.map": "/shad-web/static/js/main.f10a6f93.js.map",
+    "main.d45a5408.js.map": "/shad-web/static/js/main.d45a5408.js.map",
     "787.7efd31bd.chunk.js.map": "/shad-web/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.462085df.css",
-    "static/js/main.f10a6f93.js"
+    "static/js/main.d45a5408.js"
   ]
 }
