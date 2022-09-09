@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shad-web/static/css/main.ad62253c.css",
-    "main.js": "/shad-web/static/js/main.be7803db.js",
+    "main.js": "/shad-web/static/js/main.e5fdf826.js",
     "static/js/787.7efd31bd.chunk.js": "/shad-web/static/js/787.7efd31bd.chunk.js",
     "static/media/tec.png": "/shad-web/static/media/tec.f75249da90373b2211fd.png",
     "static/media/color-sharp.png": "/shad-web/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -34,11 +34,11 @@
     "static/media/linkedin.svg": "/shad-web/static/media/linkedin.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/email.svg": "/shad-web/static/media/email.064e21130d30ef540341db1c93884e6b.svg",
     "main.ad62253c.css.map": "/shad-web/static/css/main.ad62253c.css.map",
-    "main.be7803db.js.map": "/shad-web/static/js/main.be7803db.js.map",
+    "main.e5fdf826.js.map": "/shad-web/static/js/main.e5fdf826.js.map",
     "787.7efd31bd.chunk.js.map": "/shad-web/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad62253c.css",
-    "static/js/main.be7803db.js"
+    "static/js/main.e5fdf826.js"
   ]
 }
