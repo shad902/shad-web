@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shad-web/static/css/main.ad62253c.css",
-    "main.js": "/shad-web/static/js/main.3a902851.js",
+    "main.js": "/shad-web/static/js/main.be7803db.js",
     "static/js/787.7efd31bd.chunk.js": "/shad-web/static/js/787.7efd31bd.chunk.js",
     "static/media/tec.png": "/shad-web/static/media/tec.f75249da90373b2211fd.png",
     "static/media/color-sharp.png": "/shad-web/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -10,6 +10,7 @@
     "static/media/robot.png": "/shad-web/static/media/robot.1eb38c6506bdb32e83ee.png",
     "static/media/job1.png": "/shad-web/static/media/job1.6baf9d255f5833abb9f2.png",
     "static/media/temp.jpg": "/shad-web/static/media/temp.75633b5cf1ccef2c39e8.jpg",
+    "static/media/tbd.png": "/shad-web/static/media/tbd.c427a0f1eeb5c7ab3766.png",
     "static/media/rpg.png": "/shad-web/static/media/rpg.7da2cbb0a4d54fb97b2a.png",
     "static/media/BioRhyme-Bold.ttf": "/shad-web/static/media/BioRhyme-Bold.a71102a0b4738a661ee4.ttf",
     "static/media/BioRhyme-Regular.ttf": "/shad-web/static/media/BioRhyme-Regular.48243e2fcf861a5e06bc.ttf",
@@ -17,9 +18,11 @@
     "static/media/shad2.PNG": "/shad-web/static/media/shad2.248548f55097d0f0b357.PNG",
     "static/media/CentraNo2-Book.ttf": "/shad-web/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/raspberrypi.jpg": "/shad-web/static/media/raspberrypi.dc7c1d8f24d429db7380.jpg",
+    "static/media/ths.png": "/shad-web/static/media/ths.7806cde8ab7cd0842e2f.png",
     "static/media/pokemon.png": "/shad-web/static/media/pokemon.4c3da9c1333aa8e7f443.png",
     "static/media/footer-bg.png": "/shad-web/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/job2.png": "/shad-web/static/media/job2.d84b68213cb58c9039af.png",
+    "static/media/MSU.png": "/shad-web/static/media/MSU.559d97def39282c57b78.png",
     "static/media/Barcelona.jpg": "/shad-web/static/media/Barcelona.2d1e78d468cbf138b3f0.jpg",
     "static/media/revicons.eot": "/shad-web/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/shad-web/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -31,11 +34,11 @@
     "static/media/linkedin.svg": "/shad-web/static/media/linkedin.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/email.svg": "/shad-web/static/media/email.064e21130d30ef540341db1c93884e6b.svg",
     "main.ad62253c.css.map": "/shad-web/static/css/main.ad62253c.css.map",
-    "main.3a902851.js.map": "/shad-web/static/js/main.3a902851.js.map",
+    "main.be7803db.js.map": "/shad-web/static/js/main.be7803db.js.map",
     "787.7efd31bd.chunk.js.map": "/shad-web/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad62253c.css",
-    "static/js/main.3a902851.js"
+    "static/js/main.be7803db.js"
   ]
 }
